@@ -90,6 +90,10 @@ h3 {
   width: 100%;
 }
 
+.featured-work-title {
+  margin-top: 50px;
+}
+
 .featured-work {
   display: flex;
   flex-wrap: wrap;
@@ -260,9 +264,14 @@ footer {
     margin: 5px 5px;
   }
 
+  .featured-work-title {
+    margin-top: 45px;
+  }
+
   .first-work, .second-work, .third-work {
     width: 95%;
     margin: 5px 5px;
+    margin-bottom: 30px;
   }
 
 }
