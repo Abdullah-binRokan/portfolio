@@ -96,6 +96,10 @@ h3 {
   width: 100%;
 }
 
+button, #open_first, #open_second, #open_third {
+  cursor: pointer;
+}
+
 .dark-grey {
   color: #333444;
 }
@@ -304,6 +308,5 @@ footer {
 
   .third-work {
     margin-right: 0;
-    /* height: 173.04px!important; */
   }
 }
